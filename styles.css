@@ -1,0 +1,1566 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana;
+}
+
+header,{
+    overflow: hidden;
+    justify-content: space-between;
+    display: inline-flex;
+    align-items: center;
+    width: 100%;
+    background-color: #EFEFEF;
+    padding: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+  
+}
+
+footer {
+    text-align: center;
+}
+
+
+.test {
+    postion:relative;
+}
+
+.nomargin2 {
+    margin: 0%;
+    
+}
+
+header a {
+    color: rgb(25, 25, 25);
+}
+
+nav img {
+    padding: 5px;
+}
+
+
+.navbuttonsize {
+    max-width: 35px;
+}
+.searchbuttonsize {
+    max-width: 31px;
+}
+
+/*Text variations*/
+
+
+
+.redtext {
+    color: #7C0000;
+}
+
+.redhighlight {
+    background-color: #7C0000;
+    color: white;
+}
+
+
+/*NAV positioning*/
+
+.navpositioning {
+    display: flex;
+    align-items: baseline;
+    font: size 20px;
+    
+}
+
+.navbuttonspositioning {
+    position: relative;
+    left: 1050px;
+    padding: 15px;
+    top: 10px;
+    max-width: 35px;
+}
+
+.navpadding {
+    padding: 15px;
+}
+
+nav,
+nav li{
+    display: inline-block;
+
+
+}
+
+
+
+/*text transformat
+padding:ion/positioning HOMEPAGE*/
+
+.weight300 {
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
+.register {
+    font-size: 43px;
+    font-weight: 300;
+    text-transform: 
+    padding:uppercase;
+    padding: 10px;
+}
+.freeaccount {
+    font-size: 20px;
+    font-weight: 300;
+    padding: 0px 10px 10px 10px;
+
+}
+
+.squareeyes {
+    font-size: 90px;
+    text-transform: 
+    padding:uppercase;
+    color: #AA8500;
+
+}
+.fp_info_register {
+    font-weight: 300;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    padding: 10px;
+}
+
+.gray-cta-positioning1 {
+    position: absolute;
+    top: 880px;
+    left: 810px;
+}
+.gray-cta-positioning2 {
+    position: absolute;
+    top: 880px;
+    left: 1050px;
+}
+
+
+.cinemaexperience1 {
+    position: absolute;
+    left: 30px;
+
+}
+.cinemaexperience2 {
+    position: absolute;
+    top: 400px;
+    left: 30px;
+
+}
+
+.uppercase {
+    text-transform: 
+    padding:uppercase;
+}
+
+/*text transformat
+padding:ion/positioning REGISTER*/
+
+.squareeyesreg {
+    font-size: 80px;
+    position: relative;
+    top: -300;
+    left: 50px;
+    margin: 0px;
+}
+
+.welcometo {
+    font-size: 30px;
+    position: relative;
+    top: -300;
+    left: 5px;
+    margin: 0px;
+    padding: 5px 50px;
+}
+
+.makeanaccount1 {
+    font-size: 17px;
+    position: relative;
+    top: -300;
+    left: 55px;
+    margin: 0px;
+    letter-spacing: 8px;
+
+}
+
+.makeanaccount2 {
+    font-size: 16px;
+    position: relative;
+    top: 5px;
+    left: 235px;
+    margin: 0px;
+    letter-spacing: 0.5px;
+
+}
+
+/*text transformat
+padding:ion/positioning COLLECTION*/
+
+
+/*buttons*/
+/* homepage */
+
+
+/* Movie posters */
+
+.fp-movie-collection {
+    max-width: 210px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.batman {
+    max-width: 210px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.sweetheart {
+    max-width: 220px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.hobbs {
+    max-width: 196px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.scream {
+    max-width: 200px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+
+/* Links */
+a {
+    text-decoration: none;
+}
+
+.active {
+    text-decoration: underline;
+}
+
+
+/* about us */
+
+    
+.aboutus_logo {
+    position: relative;
+    top: -300px;
+    left: 1350px;
+
+}
+
+.aboutus_text {
+    position: relative;
+    top: -300px;
+    left: 1390px;
+    text-transform: 
+    padding:uppercase;
+    font-weight: 300;
+
+}
+
+
+.aboutus {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    flex: 2;
+
+}
+
+.aboutus > * {
+    flex: 1;
+}
+
+/*contact us */
+
+.contact-us-backround {
+    background-color: rgb(37, 37, 37);
+    color: white;
+}
+
+
+.squareeyes__contact {
+    font-size: 60px;
+    text-transform: 
+    padding: uppercase;
+    position: relative;
+    top: 0px;
+    left: 100px;
+    color: #AA8500;
+    letter-spacing: 5px;
+    }
+
+.contactusat {
+    font-size: 20px;
+    font-weight: 300;
+    position: relative;
+    top: 50px;
+    left: 100px;
+    letter-spacing: 2px;
+}
+
+.mappic {
+    border-radius: 1000px;
+    width: 300px;
+    position: relative;
+    top: -200px;
+    left: 200px;
+    
+}
+
+.socialmediatext {
+    font-size: 16px;
+    font-weight: 300;
+    position: relative;
+    top: -180px;
+    left: 210px;ƒ
+    letter-spacing: 3px;
+}
+
+.socialmediapic1 {
+    position: static;
+  
+}
+.socialmediapic2 {
+    position: static;
+    
+}
+.socialmediapic3 {
+    position: static;
+    
+}
+
+
+
+
+/* collection */
+
+.collection-backround {
+    background-color: rgb(37, 37, 37);
+    color: white;
+    text-align: center;
+}
+
+.playbutton {
+    position: absolute;
+    top: 300px;
+    left: 850px;
+}
+
+
+/* product pages */
+
+.product-page-backround {
+    background-color: rgb(37, 37, 37);
+    color: white;
+}
+
+
+/* check out */
+
+.checkout-backround {
+    background-color: #40403F;
+    color: white;
+}
+
+/* order confirmed */
+
+.order-confirmed-backround {
+    background-color: #1A1919;
+    color: white;
+}
+
+.order-confirmed-image {
+    background-image: url(images/popcorn.jpg);
+    background-size: cover;
+    min-height: 50vh; 
+    opacity: 40%;
+}
+
+/*Register page*/
+
+.backroundcolor {
+    background-color: #D9D9D9;
+}
+
+
+.popcornpic {
+    background-image: url(images/popcorn.jpg);
+    background-size: cover;
+    min-height: 15vh; 
+    opacity: 80%;
+}
+
+.textpadding {
+    padding: 20px;
+}
+
+
+
+_________
+
+
+.spookyflex {
+    display: flex;
+    justify-content: center;
+}
+
+.navcontainer{
+   display: flex;
+   position: static;
+ }
+
+ .navbutton {
+    display: inline-block;
+    padding: 10px;
+    margin-left: 50px
+ }
+
+ .header1 {
+    overflow: hidden;
+    justify-content: space-between;
+    display: inline-flex;
+    align-items: center;
+    width: 100%;
+ }
+
+
+ .bottominfo {
+    width: 100%;
+    justify-content: center;
+ }
+
+ .bottominfo * > {
+    flex: 1;
+ }
+
+ __________
+
+ .staticfronttext {
+    position: static;
+ }
+
+ /*NEWW*/
+
+ /*HOMEPAGE*/
+
+
+
+ .cinemapic {
+    background-image: url(../images/cinemachairs.jpg);
+    background-size: cover;
+    min-height: 50vh;
+    background-position-y: bottom;
+    background-repeat: no-repeat;
+
+}
+
+.containeryey {
+    padding: 3em;
+    display: grid;
+    gap: 2em;
+    grid-template-columns: repeat(auto-fit, minmac(250px, 1fr));;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+*,*::before, *::after{
+    box-sizing: inherit;
+}
+
+.navbutton {
+    display: inline-block;
+    padding: 10px;
+    margin-left: 50px
+    }
+
+body {
+    font-family: 'Roboto Condensed', sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana;
+}
+
+input, textarea, select {
+    margin: 10px 5px 5px 5px;
+    font-weight: 300;
+    border-radius: 3px;
+    border: #c39900;
+    color: white;
+    background-color: #535353;
+    font-size: 15px;
+}
+textarea, select {
+    background-color: #535353;
+}
+
+
+.nomargin {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    
+}
+
+header, body, footer{
+    background-color: #EFEFEF;
+}
+
+header {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 300;
+    width: 100%;
+}
+
+
+.logo{
+    height: 80px;
+ }
+
+footer {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 300;
+    padding: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*HOMEPAGE*/
+
+.centertext {
+    text-align: center;
+}
+
+.navbutton2 {
+    display: inline-block;
+    padding: 10px;
+    margin-left: 0px
+ }
+
+
+ .FP_spooky{
+    position: relative;
+    top: 5px;
+    font-size: 15px;
+}
+
+
+.moviebackround {
+    background-color: #252525;
+}
+
+.Spooky_season {
+    position: relative;
+    top: -10px;
+    font-weight: 300;
+}
+
+.main1 {
+    overflow: hidden;
+    justify-content:center;
+    display: inline-flex;
+    align-items: center;
+    width: 100%;
+    flex: wrap;
+    }
+
+
+    .whitetext {
+        color: white;
+    }
+
+.HP-textmargin-one {
+   margin-top: 120px;
+}
+
+.HP-textmargin-two {
+    margin-bottom: 15px;
+}
+
+.cta-gray-FP-maring{
+    margin-left: 90px;
+    margin-right: 50px;
+}
+
+.gray-cta {
+    background-color: gray;
+    color:white;
+    padding: 15px 70px;
+    border-radius: 5px;
+    font-weight: 300;
+}
+
+.moviescontainer {
+    display: flex;
+    position: static;
+}
+
+.flexconteiner {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: space-around;
+}
+
+.flexitem {
+    flex: 1;
+}
+
+.Yellowsquareyes {
+    font-size: 60px;
+    color: #c39900;
+    text-transform: 
+    padding:uppercase;
+    margin: 0px;
+    padding: 10px;
+ }
+
+ .cinematext {
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 1px;
+    padding: 10px;
+    color: white;
+    padding: 20px;
+ }
+
+.squareeyes_home {
+ text-transform: uppercase;
+ font-weight: 300;
+ background-color: #c39900;
+color: white;
+padding: 1px 10px;
+font-size: 30px;
+}
+
+
+.cinemapic {
+    background-image: url(../images/cinemachairs.jpg);
+    background-size: stretch;
+    min-height: 60vh;
+    background-position-y: bottom;
+    background-repeat: no-repeat;
+}
+
+.curtainpic {
+    background-image: url(../images/curtain.png);
+    background-size: cover;
+    min-height: 25vh;
+}
+
+
+.boxregister {
+    box-sizing: border-box;
+    padding-bottom: 30px;
+    margin-top: 35px;
+}
+.boxregisterbutton {
+    margin-left: 5px;
+}
+
+.registerinfo1 {
+    background-color: rgba(0, 0, 0, 0.608);
+}
+
+.gridconteiner {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid
+}
+
+
+
+/*COLLECTION*/
+
+.pulpfictionbig {
+    background-image: url(images/pulpfiction.jpg);
+    min-height: 80vh; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+/*YOUR CART*/
+
+.summarylayout {
+    display: inline-block;
+}
+
+.box6 {
+    margin-right: 80px;
+}
+
+
+.QTYbutton {
+    border-radius: 3px;
+    border: 0px;
+    background-color: #2d2d2d;
+    color:#c39900;
+    padding: 10px;
+    text-align: center;
+}
+
+.shopnavbar {
+    background-color: #1A1919;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+.box3 {
+    margin: 40px;
+}
+
+.box4 {
+    padding: 10px 10px;
+}
+
+.box5 {
+    padding: 10px 0px 30px 0px;
+}
+
+.boxbatman {
+    margin: 30px;
+    text-align: center;
+    font-weight: 300;
+    text-shadow: #1A1919;
+}
+
+
+
+.yellowbackroundcart {
+    background-color: rgb(170, 133, 0);
+    color: white;
+    font-weight: 300;
+    padding: 10px 10px;
+    font-size: 18px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+.shopnavtext {
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 300;
+}
+
+.your-cart-backround {
+    background-color: rgb(37, 37, 37);
+    color: white;
+}
+
+.your-cart-backround2 {
+    background-color:#00000067;
+    color: white;
+    text-align: center;
+}
+
+.your-cart-line {
+    background-color: #40403F;
+    color: white;
+
+}
+
+.batmansmall {
+    max-width: 150px;
+    border-radius: 5px;
+}
+
+.godzillasmall {
+    max-width: 150px;
+    border-radius: 5px;
+}
+
+.flexconteinercart {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.flex1 {
+    flex: 1;
+}
+.flex2 {
+    flex: 3;
+}
+
+
+
+
+
+
+
+
+
+
+/*ORDER CONFIRMED PAGE*/
+
+.mainrelative {
+    position: relative;
+}
+
+.divabsolute {
+    position: absolute;
+}
+
+.h1-text {
+    text-align: center;
+    background-color: #c39900;
+    color: white;
+    padding: 7px;
+}
+
+.smalltext {
+    font-weight: 300;
+    margin: 30px;
+}
+
+.h2-text {
+    margin: 30px;
+    font-size: 22px;
+}
+
+.order-logo {
+    display: block;
+    height: 6rem;
+    position: absolute;
+    left: 40.3%;
+    top: 55%;
+
+}
+
+.circle {
+    display: block;
+    height: 12rem;
+    width: 12rem;
+    background-color:#c39900;
+    border-radius: 50%;
+    position: absolute;
+    left: 40%;
+    top: 50%;
+
+}
+
+.logocirlceflex {
+    display: flex;
+    overflow: hidden;
+}
+
+.circleflexitem {
+    flex: 1;
+}
+
+
+
+
+/*CHECK OUT PAGE*/
+
+.shippayinfo {
+    text-align: center;
+    font-weight: 300;
+    letter-spacing: 4px;
+    margin: 10px;
+}
+
+
+.flextconteincheckout {
+    display: inline grid;
+    justify-content: space-evenly;
+    text-align: center;
+    width: 100%;
+    margin: 0px;
+}
+
+.Shipping {
+    display: inline-grid;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.cta-purchase {
+    margin: 50px;
+}
+
+
+
+/* ABOUT US PAGE */
+
+.allatoneplace {
+    position: static;
+    top: 50px;
+    left: -10px;
+}
+
+
+.nomargin {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    
+}
+
+
+.yellowtext {
+    color:rgb(170, 133, 0)
+}
+
+.about-us-main {
+    background-color: rgb(37, 37, 37);
+    color: rgb(255, 255, 255);
+}
+
+.about-us-margin-one{
+    margin-top: 60px;
+}
+
+.about-us-main-height {
+    height: 700px;
+}
+
+.infoaboutus {
+    font-size: 15px;
+    font-weight: 300;
+    position: relative;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.flexconteiner-aboutus {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 1000px;
+    margin:auto;
+    align-content: center;
+    align-items: center;
+ }
+
+ .squareeyes__about {
+    font-size: 40px;
+    text-transform:uppercase;
+    position: relative;
+    color: #c39900;
+    letter-spacing: 5px;
+    text-align: center;
+    }
+
+.yellowbackround_aboutus {
+        background-color: #c39900;
+        color: white;
+        text-align: center;
+        font-weight: 300;
+        padding: 10px 10px 10px 50px;
+        font-size: 14.5px;
+        letter-spacing: 3px;
+    }
+
+    .yellowbackroundcart {
+        background-color: rgb(170, 133, 0);
+        color: white;
+        font-weight: 300;
+        padding: 10px 10px;
+        font-size: 18px;
+        letter-spacing: 3px;
+    }
+
+    .ourgoaltext {
+        font-size: 15px;
+        font-weight: 300;
+        color: white;
+        letter-spacing: 1px;
+        text-align: center;
+    }
+
+
+
+
+
+
+
+/*CONTACT US PAGE*/
+
+.yellowbackround_contact {
+    background-color: rgb(170, 133, 0);
+    color: white;
+    font-weight: 300;
+    padding: 10px 10px 10px 100px;
+    font-size: 14.5px;
+    letter-spacing: 3px;
+}
+
+.contact {
+    max-width: 800px;
+    margin: auto;
+}
+
+.contact-us-main-height{
+    height: 500px;
+}
+
+.contact-us-width {
+    max-width: 1000px;
+}
+
+.contact-us-form-margin {
+    margin-left: 500px;
+}
+
+.contact-socials-margin {
+    margin-left: 750px;
+}
+
+.openinghours {
+    font-size: 18px;
+    font-weight: 300;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.flexconteinercontact {
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+
+}
+
+.conactflexitem {
+    flex: 1;
+}
+
+.one{
+    flex: 3;
+}
+
+.two {
+    flex: 1;
+    justify-content: center;
+}
+
+.three {
+    flex: 3;
+}
+
+.iconpadding {
+    padding: 10px;
+    margin: 3px;
+}
+
+.sosialmediagrid {
+    display: inline-flexbox
+}
+
+.centeralign {
+    text-align: center;
+}
+
+.sosialmedia1{
+    position: absolute;
+    top: -170px;
+    left: 850px;
+}
+.sosialmedia2{
+    position: absolute;
+    top: -200px;
+    left: 830px;
+}
+
+.relative {
+    position: relative;
+}
+
+.backgroundcolor {
+    background-color: #252525;
+}
+
+.backgroundcolorcontact {
+    background-color: #323232;
+}
+
+.whitetext{
+    color: white;
+    font-weight: 300;
+}
+
+.contact {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 300;
+    color: white;
+    margin: auto;
+}
+
+.textpadding {
+    padding: 20px;
+}
+
+.textaligncenterform {
+    text-align: center;
+}
+
+.boxmodel1 {
+    background-color: #323232;
+    padding: 70px 70px;
+    margin: 20px;
+    box-sizing: border-box;
+
+}
+
+.box1 {
+    padding: 10px 5px 5px 5px;
+}
+
+.box2 {
+    margin-bottom: 450px;
+}
+
+
+
+
+
+
+
+/*PRODUCTPAGE - SCREAM*/
+
+.batmangrid {
+    display: grid;
+
+}
+
+.textaligncenter {
+    text-align: center;
+}
+
+
+.yellowhalloween {
+    background-color: #c39900;
+    color: white;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 300;
+    padding: 5px;
+    margin-top: 0%;
+    
+}
+
+.similar {
+    background-color: #c39900;
+    color: white;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 300;
+    padding: 5px;
+    margin-bottom: 0%;
+}
+
+.productinfo {
+    font-weight: 300;
+    text-align: left;
+    padding: 0px 80px;
+    
+}
+
+.price {
+    font-size: 20px;
+    color: white;
+    background-color: #c39900;
+    border-radius: 1px;
+    padding: 0px;
+}
+
+.price2 {
+    font-size: 20px;
+    color: white;
+    font-weight: bolder;
+}
+
+.yellow-cta {
+    background-color: #c39900;
+    color: white;
+    padding: 10px 50px;
+    border-radius: 5px;
+    text-transform:uppercase;
+    font-weight: 300;
+    margin: 30px;
+
+}
+
+.titel {
+    background-color: #c39900;
+    color: white;
+    text-transform:uppercase;
+    font-weight: 300;
+    font-size: 30px;
+    padding: 5px;
+}
+
+.moviepicture {
+    height: 450px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*REGISTER PAGE*/
+
+.regform {
+    display: grid;
+}
+
+
+.flexconteiner2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.flexitem2 {
+    flex: 1;
+}
+
+.flexconteiner3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-content: center;
+    align-items: center;
+}
+
+.flexitem3 {
+    flex: 1;
+}
+
+.squareeyestext {
+    font-size: 30px;
+    text-transform: uppercase;
+    color: white;
+    background-color:#8A0404;
+    font-weight:500;
+    padding: 10px;
+    margin: 0%;
+}
+
+.red-cta {
+    background-color:#8A0404;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 300;
+    margin-left: 20px;
+}
+
+.registerinfo {
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 17px;
+    color: #EFEFEF;
+    background-color:#8A0404;
+    padding: 5px;
+}
+.registerinfo2 {
+    text-transform: uppercase;
+    color: #a52a2a;
+}
+
+.registerinfo3 {
+    font-weight: 300;
+
+}
+
+.registerinfo4 {
+    text-transform: uppercase;
+    color: #a52a2a;
+    font-weight: 300;
+    text-align: center;
+}
+
+.registerinfo5 {
+    font-weight: 300;
+}
+
+
+
+
+
+
+
+
+
+
+/*COLLECTION*/
+
+.genrebutton {
+    border-radius: 3px;
+    border: 0px;
+    background-color: #ACACAC;
+    color: #8A0404;
+    padding: 10px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.textpositioning {
+}
+
+.textwidthmovies {
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
+.whitetextlink {
+    color: white;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+.yellowbackgroundtext {
+    background-color: #c39900;
+    color: white ;
+    font-weight: 300;
+    padding: 7px;
+}
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 200px) and (max-width: 615px) {
+    header {
+        display: grid;
+        grid-template-columns: 1fr;
+        align-items: center;
+        justify-content: center;
+        font-size: 20px;
+        font-weight: 300;
+        width: 100%;
+        text-align: center;
+    }
+
+    ul {
+        padding: 0px;
+    }
+    .navbutton {
+        display: inline-block;
+        padding: 2px;
+        margin-left: 0px
+        }
+
+
+
+/*HOMEPAGE*/
+
+
+
+        .moviescontainer {
+            display: grid;
+            grid-column: 1fr;
+            justify-items: center;
+            justify-content: space-between;
+
+            
+        }
+
+        .gray-cta {
+            background-color: gray;
+            color:white;
+            padding: 10px 10px;
+            border-radius: 5px;
+            font-weight: 300;
+        }
+
+        .cta-gray-FP-maring{
+            padding: 10px;
+        }
+
+
+
+
+    /*CONTACT US*/
+
+
+
+    .flexconteinercontact {
+        display: grid;
+        grid-template-columns: 1fr;
+        overflow: hidden;
+        align-content: center;
+        align-items: inherit;
+    
+    }
+
+    .openinghours {
+        font-size: 18px;
+        font-weight: 300;
+        padding: 10px;
+        margin: 10px;
+        max-height: 150px;
+    
+    }
+
+    /*COLLECTION*/
+
+    .pulpfictionbig {
+        background-image: url(images/pulpfiction.jpg);
+        min-height: 50vh; 
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .collection-backround1 {
+        background-color: rgb(37, 37, 37);
+        color: white;
+        display: grid;
+        grid-column: 1fr;
+        justify-items: center;
+    }
+
+    /*YOUR CART*/
+    .box3 {
+        margin: 5px;
+    }
+
+    /*PAYMENT*/
+
+    .marginmobile {
+       margin-left: 90px;
+       margin-right: 90px;
+    }
+
+    .yellow-cta {
+        background-color: #c39900;
+        color: white;
+        padding: 10px 10px;
+        border-radius: 5px;
+        text-transform:uppercase;
+        font-weight: 300;
+        margin: 30px;
+    
+    }
+
+    }
+
+@media (min-width: 616px) and (max-width: 899px) {
+    header {
+        display: grid;
+        grid-template-columns: 1fr;
+        align-items: center;
+        font-size: 20px;
+        font-weight: 300;
+        width: 100%;
+        text-align: center;
+    }
+
+
+ ul {
+    padding: 0px;
+ }
+
+.navbutton {
+    display: inline-block;
+    padding: 2px;
+    margin-left: 0px
+    }
+
+/*HOMEPAGE*/
+    .moviescontainer {
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        justify-items: center;
+        justify-content: space-between;
+
+    
+    }
+
+    /*CONTACT US*/
+
+    .flexconteinercontact {
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        overflow: hidden;
+        align-content: center;
+        align-items: inherit;
+    
+    }
+
+
+    /*COLLECTION*/
+
+    .pulpfictionbig {
+        background-image: url(images/pulpfiction.jpg);
+        min-height: 50vh; 
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .collection-backround1 {
+        background-color: rgb(37, 37, 37);
+        color: white;
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        justify-items: center;
+    }
+
+    /*PAYMENT*/
+
+    .marginmobile {
+        margin-left: 90px;
+        margin-right: 90px;
+     }
+}
+
+@media (min-width: 900px) and (max-width: 1092px) {
+    header {
+        display: grid;
+        grid-template-columns: 1fr;
+        align-items: center;
+        font-size: 20px;
+        font-weight: 300;
+        width: 100%;
+        text-align: center;
+    }
+
+}
