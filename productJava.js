@@ -16,7 +16,7 @@ async function productSpecific() {
     
         console.log(product);
 
-       detailContainer.innerHTML = `<h1>${product.name}</h1>`
+       detailContainer.innerHTML = `<h1>${product.name}</h1> <p>${product.short_description}<p> <p>${product.sku}<p>`
     }
     catch(error) {
         console.log("error occurred", error);
