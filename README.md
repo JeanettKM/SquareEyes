@@ -6,6 +6,8 @@ SquareEyes, cross year project.
 
 This is the first project we began our school year with. I have been adding on to this page as the year progressed and we learned more. This page is a fictional movie rental page called SquareEyes. It consist of a homepage, About us page, Contact us page and a collection page. There is also several other pages when you follow the cart button. This is to give you the experience of being on a page where you can make a purchase.
 
+Visit the live page here: https://dreamy-granita-7442ed.netlify.app/
+
 ## Built With
 
 - HTML5
