@@ -1,6 +1,6 @@
 SquareEyes, cross year project.
 
-![image](C:\Users\Jeane\OneDrive\Skrivebord\SKOLE\github\SquareEyesv3-contentmanagement\Screenshot 2023-06-11 at 19-34-27 Square Eyes Home.png)
+![image](/Screenshot%202023-06-11%20at%2019-34-27%20Square%20Eyes%20Home.png)
 
 ## Description
 
