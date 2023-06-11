@@ -12,7 +12,7 @@ This is the first project we began our school year with. I have been adding on t
 - CSS3
 - JavaScript
 - Wordpress Rest Api
-- Figma
+- <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg>"> Figma </a>
 
 ## Getting Started
 
