@@ -40,14 +40,6 @@ npm install
 
 ### Running
 
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
-
-To run the app, run the following commands:
-
-```bash
-npm run start
-```
-
 2. Open the Zip File/Folder with your preferred Code editor.
 
 ## Contributing
