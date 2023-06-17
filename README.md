@@ -48,6 +48,11 @@ Jeanett Melsom - https://www.linkedin.com/in/jeanett-melsom-927ab4123/
             <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 
 
+
+## License
+
+No license required, you can clone this project if you want to. 
+
 ## Acknowledgments
 
 The icons were collected by Google Material Icons:
