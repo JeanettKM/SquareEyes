@@ -34,9 +34,13 @@ Visit the live page here: https://dreamy-granita-7442ed.netlify.app/
 git clone https://github.com/JeanettKM/SquareEyesv3-contentmanagement.git
 ```
 
+### dependencies:
+The site depends on a Wordpress API instance.
+
+
 ### Running
 
-2. Open the Zip File/Folder with your preferred Code editor.
+Open the Zip File/Folder with your preferred Code editor.
 
 ## Contributing
 
